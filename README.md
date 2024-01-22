@@ -1,6 +1,6 @@
 # Package: com.unity.demoteam.mesh-to-sdf
 
-A real-time Signed Distance Field generator. Use a Mesh or a dynamically deforming SkinnedMesh as input to generate a 3D SDF texture every frame.
+A real-time Signed Distance Field Generator. Use a Mesh or a dynamically deforming SkinnedMesh as input to generate a 3D SDF texture every frame.
 
 The SDF can be used by the VFX Graph, the Hair system, and other effects relying on SDFs.
 
